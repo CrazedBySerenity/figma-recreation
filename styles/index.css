@@ -1,0 +1,90 @@
+.logo {
+    width: 95px;
+    height: 41px;
+    left: 80px;
+    top: 37px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 48px; /* or or 160% */
+    letter-spacing: -0.02em;
+
+    color: #0A1B32;
+}
+
+.logo-dot {
+    color: #824FF1;
+}
+
+section {
+    display: inline-block;
+}
+
+.main-title {
+    max-width: 600px;
+    width: 100%;
+    margin-top: -0px;
+    margin-left: 200px;
+    
+    font-family: 'Ramaraja';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+
+    text-align: start;
+    letter-spacing: 0.02em;
+    
+    color: #1B0A42;
+}
+
+.subtitle {
+    max-width: 591px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 200px;
+
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+
+    letter-spacing: 0.02em;
+
+    color: #9A9A9A;
+}
+
+.image-human {
+    max-width: 658px;
+    width: 100%;
+    margin-top: 138px;
+}
+
+.learn-more-button {
+    width: 152px;
+    height: 64px;
+
+    margin-top: 50px;
+    margin-left: 200px;
+
+    background-color: #824FF1;
+    border-radius: 6px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+
+    border: none;
+}
