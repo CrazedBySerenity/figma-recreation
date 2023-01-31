@@ -1,10 +1,8 @@
 .logo {
-    width: 95px;
-    height: 41px;
     margin-left: 80px;
     margin-top: 37px;
 
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 30px;
@@ -30,45 +28,36 @@ section {
     
     font-family: 'Ramaraja', serif;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 72px;
     line-height: 76px;
 
     letter-spacing: 0.02em;
-    
     color: #1B0A42;
 }
 
 .subtitle {
-    max-width: 591px;
+    max-width: 583px;
     width: 100%;
     margin-top: 10px;
     margin-left: 200px;
 
 
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 32px;
 
     letter-spacing: 0.02em;
-
     color: #9A9A9A;
 }
 
 .image-human {
-    position: relative;
     max-width: 756px;
     width: 100%;
-    margin-top: 138px;
-    margin-right: -6px;
+    margin-left: 10px;
 }
-/* 
-.images {
-    position: absolute;
-} */
-
 .learn-more-button {
     width: 152px;
     height: 64px;
@@ -79,7 +68,7 @@ section {
     background-color: #A3DC00;
     border-radius: 6px;
 
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
